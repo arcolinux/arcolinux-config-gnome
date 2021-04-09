@@ -1,1 +1,1 @@
-# ArcoLinux-config for gnome
+# ArcoLinux-config
